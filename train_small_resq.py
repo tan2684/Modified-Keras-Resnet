@@ -21,8 +21,8 @@ KTF.set_session(get_session())
 
 img_width, img_height = 96, 96
 
-train_data_dir = 'C:/Users/Tanner/[python/OWbot/v2/data/dataset-96-red2/train'
-validation_data_dir = 'C:/Users/Tanner/[python/OWbot/v2/data/dataset-96-red2/validation'
+train_data_dir = '/data/dataset-96-red2/train'
+validation_data_dir = '/data/dataset-96-red2/validation'
 nb_train_samples = 50864
 nb_validation_samples = 12828
 
